@@ -125,8 +125,8 @@
   position: absolute;
   text-align: center;
   width: 307px;
-  margin-left: -307px/2;
-  margin-top: -299px/2;
+  margin-left: -153.5px;
+  margin-top: -149.5px;
   -webkit-user-select: none;
      -moz-user-select: none;
           user-select: none;
@@ -1169,7 +1169,7 @@
   flex-flow: row wrap;
 }
 #wrap #main #section9 .container .gap .content > ul > li {
-  width: 100%/3;
+  width: 33.3333333333%;
 }
 #wrap #main #section9 .container .gap .content > ul > li .col-gap {
   margin: 0 15px;
